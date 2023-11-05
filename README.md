@@ -54,8 +54,7 @@
 
 ## Businesses using our solution
 
-- **[https://seamaf.com]**
-- **[https://vanessascakes.online]**
+-
 
 # License 
 **[Creative Commons Attribution 4.0	cc-by-4.0]**
